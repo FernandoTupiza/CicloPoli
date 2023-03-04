@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179678315758",
+    "project_id": "ciclopoli-5c028",
+    "storage_bucket": "ciclopoli-5c028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179678315758:android:63d3c614bab74dbb439fff",
+        "android_client_info": {
+          "package_name": "com.example.proyectomapsmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179678315758-bb7abgio3fuvo4johukcq7tbg5pa4tvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectomapsmovil",
+            "certificate_hash": "13472ffc36b2ca87a22c8eb25fee5d406e095500"
+          }
+        },
+        {
+          "client_id": "179678315758-m8pv5061hoaagi9hn0n7m0eg3mcktu8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfh3kOkZ5Zx-TJv2AF8Jj_fAi-clFNbpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179678315758-m8pv5061hoaagi9hn0n7m0eg3mcktu8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
